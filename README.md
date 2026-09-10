@@ -18,10 +18,6 @@
 
 [AI 产品认知](./notes/ai-product-thinking.md) — 产品形态分类与留存逻辑差异、AI 产品的三类价值创造方式、从模型能力边界推导产品边界的方法，以及为什么沉淀了这几个 skill。
 
-### `toolkit/` — 可直接使用的代码
-
-[容错 JSON 解析器](./toolkit/robust_json_parser.py)，覆盖工作流节点调用大模型时常见的 11 种输出失败情况。
-
 ### `references/` — 模型厂商官方提示词规范
 
 收录 MiniMax H3 与 Seedance 2.0 的官方规范原文，并对比了两者互相冲突的地方（如**时间表达方式**：H3 用绝对秒数，Seedance 禁用秒数必须用镜头序号）。
