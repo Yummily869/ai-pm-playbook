@@ -6,17 +6,13 @@
 
 ## 这里面有什么
 
-### `skills/` — 5 个工作 skill
-
-每个 skill 包含：**适用场景、使用方法、常见坑、空白模板、自检清单**。
+### `skills/` — 3 个工作 skill
 
 | Skill | 解决什么问题 |
 |---|---|
-| [需求背景](./skills/requirement-background/) | 怎么论证「为什么要做这个 AI 需求」，从市场/公司/用户/竞品四层收窄 |
-| [Prompt 撰写](./skills/prompt-writing/SKILL.md) | 输入一句话需求，输出可直接使用的完整 Prompt。覆盖生成类/结构化输出类/对话类三种场景 |
-| [模型选型](./skills/model-selection/) | 能力匹配 → 性能时延 → 成本，三个约束按顺序收窄，而不是加权打分 |
+| [需求价值论证](./skills/requirement-background/) | 怎么论证「为什么要做这个 AI 需求」，从市场/公司/用户/竞品/商业化五层收窄 |
+| [Prompt 撰写](./skills/prompt-writing/SKILL.md) | 填平用户意图语言与模型工程指令之间的鸿沟，输出可直接使用的完整 Prompt |
 | [效果评测](./skills/evaluation/SKILL.md) | 把「好不好看」拆成可判定的维度和子项，建立可对比的评分体系 |
-| [灰度放量](./skills/rollout/) | 技术稳定性和产品价值是两道独立的门，每个阶段看什么、卡住时怎么判断 |
 
 ### `notes/` — AI 产品认知
 
