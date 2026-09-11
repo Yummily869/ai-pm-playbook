@@ -145,7 +145,7 @@ AI 需求最容易出现的问题是：**「技术上能做」被当成了「值
 
 这一部分之所以也能沉淀为 skill，是因为它虽然依赖具体场景，但判断顺序本身是稳定的，可以作为需求初筛和价值论证的通用框架。
 
-→ [需求价值论证 skill](../skills/requirement-background/)
+→ [需求价值论证 skill](../skills/requirement-background/SKILL.md)
 
 ### 4.2 模型选型：在「质量、成本和时延约束下」选择最适合当下场景的模型
 

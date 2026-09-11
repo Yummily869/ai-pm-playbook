@@ -268,9 +268,8 @@ Agent 产品在给出答案之前，可能已经做了：制定计划、调用�
 
 ## 相关
 
-- [AIGC 效果评测体系](./aigc-evaluation.md)
-- [Prompt 撑写 skill](../prompt-writing/README.md)
-- [模型选型 skill](../model-selection/README.md)
+- [AI 产品评测框架](./SKILL.md)
+- [Prompt 撰写 skill](../prompt-writing/SKILL.md)
 
 ---
 
