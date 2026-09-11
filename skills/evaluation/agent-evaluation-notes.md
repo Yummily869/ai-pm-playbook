@@ -1,6 +1,4 @@
 # Agent 评测参考笔记
-
-> ⚠️ **这篇是文献整理，不是我的实践总结。**
 >
 >这份笔记是我为了理解「如果换到 Agent 场景，评测该怎么做」而整理的公开资料，来源包括 DeepEval / Confident AI、Galileo、Arize、NVIDIA 的公开文档。
 > 
