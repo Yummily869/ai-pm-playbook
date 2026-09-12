@@ -6,13 +6,14 @@
 
 ## 这里面有什么
 
-### `skills/` — 3 个工作 skill
+### `skills/` — 4 个工作 skill
 
 | Skill | 解决什么问题 |
 |---|---|
 | [需求价值论证](./skills/requirement-background/SKILL.md) | 怎么论证「为什么要做这个 AI 需求」，从市场/公司/用户/竞品四层收窄，最后收口到「为什么必须用大模型」 |
 | [Prompt 撰写](./skills/prompt-writing/SKILL.md) | 填平用户意图语言与模型工程指令之间的鸿沟，输出可直接使用的完整 Prompt |
 | [效果评测](./skills/evaluation/SKILL.md) | 把「好不好」拆成可判定的维度和子项，建立可对比的评分体系 |
+| [模型选型](./skills/model-selection/SKILL.md) | 「约束过滤 → 维度拆解 → 成本核算 → 供应商风险」的选型决策框架，覆盖文生图/文生视频/视觉理解/TTS/文本生成五大场景；方法与数据分离，模型清单单独作为时间快照维护 |
 
 ### `notes/` — AI 产品认知
 
